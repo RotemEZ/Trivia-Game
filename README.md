@@ -17,7 +17,6 @@ To start the server, navigate to the server directory and run:
 
 python Trivia.py
 
-
 This will start the trivia server, which will begin listening for incoming client connections and broadcasting offers via UDP.
 
 ### Running the Client
